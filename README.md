@@ -14,8 +14,8 @@
 <a href="https://instagram.com/chetan___malviya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chetan___malviya" height="30" width="40" /></a>
 <!-- <a href="https://www.hackerrank.com/chetanmalviya230" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="chetanmalviya230" height="30" width="40" /></a>
 -->
-<a href="https://www.leetcode.com/chetanmalviya230" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="chetanmalviya230" height="30" width="40" /></a>
-<a href="https://www.geeksforgeeks.org/user/chetanmaly8iy/" target="blank"><img align="center" src="https://media.geeksforgeeks.org/wp-content/uploads/20220413171711/gfgblack.png" alt="chetan___malviya" height="30" width="40" /></a>
+/* <a href="https://www.leetcode.com/chetanmalviya230" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="chetanmalviya230" height="30" width="40" /></a>
+<a href="https://www.geeksforgeeks.org/user/chetanmaly8iy/" target="blank"><img align="center" src="https://media.geeksforgeeks.org/wp-content/uploads/20220413171711/gfgblack.png" alt="chetan___malviya" height="30" width="40" /></a> */
 </p> 
 
 <h3 align="left">Languages and Tools:</h3>
