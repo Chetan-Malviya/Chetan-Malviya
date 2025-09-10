@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chetan-malviya&label=Profile%20views&color=0e75b6&style=flat" alt="chetan-malviya" /> </p>
 
-- 🔭 I’m currently working on [Online Real Estate System](https://github.com/Chetan-Malviya/Online-Real-Estate-System)
+<!-- - 🔭 I’m currently working on [Online Real Estate System](https://github.com/Chetan-Malviya/Online-Real-Estate-System) -->
 
 - 📫 How to reach me **chetanmalviya230@gmail.com**
 
