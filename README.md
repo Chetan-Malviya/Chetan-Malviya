@@ -4,6 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chetan-malviya&label=Profile%20views&color=0e75b6&style=flat" alt="chetan-malviya" /> </p>
 
 - 📫 How to reach me **chetanmalviya230@gmail.com**
+- 👩🏻‍💻 Portfolio **https://chetan-kumar-portfolio.vercel.app/**
 
 ## 🌐 Socials:
 <a href="https://www.linkedin.com/in/chetan-kumar-a07b89258/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chetan malviya" height="30" width="40" /></a>
