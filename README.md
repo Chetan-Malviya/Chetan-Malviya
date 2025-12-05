@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chetan Malviya</h1>
 <h3 align="center">I am a passionate Full-Stack Developer (MERN) & Programming Enthusiasts</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chetan-malviya&label=Profile%20views&color=0e75b6&style=flat" alt="chetan-malviya" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=chetan-malviya&label=Profile%20views&color=0e75b6&style=flat" alt="chetan-malviya" /> </p> -->
 
 - 📫 How to reach me **chetanmalviya230@gmail.com**
 - 👩🏻‍💻 Portfolio **https://chetan-kumar-portfolio.vercel.app/**
