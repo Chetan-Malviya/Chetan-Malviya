@@ -11,8 +11,9 @@
 - Strong foundation in Data Structures, OOP, and REST API development.
 - Competitive Programming Lead @ GDG GITS 2024-25 | Passionate about clean code and performance optimization.
 
-💼 **Open to Job Opportunities**  
-I’m actively seeking full-time / internship opportunities as a Full-Stack (MERN) or Frontend Developer.
+## 💼 **Open to Job Opportunities**  
+Actively seeking **Software Engineer**, **Full-Stack (MERN)**, or **Frontend Developer** roles where I can build scalable applications and contribute to real-world products.
+
 
 
 
