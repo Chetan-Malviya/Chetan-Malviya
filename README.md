@@ -11,11 +11,6 @@
 - Strong foundation in Data Structures, OOP, and REST API development.
 - Competitive Programming Lead @ GDG GITS 2024-25 | Passionate about clean code and performance optimization.
 
-## 💼 **Open to Job Opportunities**  
-Actively seeking **Software Engineer**, **Full-Stack (MERN)**, or **Frontend Developer** roles where I can build scalable applications and contribute to real-world products.
-
-
-
 
 ## 🌐 Socials:
 <a href="https://www.linkedin.com/in/chetan-kumar-a07b89258/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chetan malviya" height="30" width="40" /></a>
