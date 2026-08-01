@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Chetan Malviya</h1>
-<h3 align="center">I am a passionate Full-Stack Developer (MERN) & C++ Programming Enthusiasts</h3>
+<h1 align="center">Hi 👋, I'm Chetan Kumar</h1>
+<h3 align="center">I am a passionate Full-Stack Developer (MERN) & C++ Programming Enthusiast</h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=chetan-malviya&label=Profile%20views&color=0e75b6&style=flat" alt="chetan-malviya" /> </p> -->
 
@@ -7,9 +7,9 @@
 - 👩🏻‍💻 Portfolio **https://chetan-kumar-portfolio.vercel.app/**
 
 ## 👨‍💻 About Me
-- Full-Stack Developer (MERN) with hands-on internship experience building scalable web applications.
+- Full-Stack Developer (MERN) with hands-on experience building scalable web applications.
 - Strong foundation in Data Structures, OOP, and REST API development.
-- Competitive Programming Lead @ GDG GITS 2024-25 | Passionate about clean code and performance optimization.
+- Competitive Programming Lead @ GDG GITS 2024-25 | Passionate about clean code and performance optimization..
 
 
 ## 🌐 Socials:
